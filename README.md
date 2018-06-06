@@ -1,11 +1,13 @@
 # mysqlburger (Eat-da-burger!)
 
 MySqlBurger (Eat-Da-Burger!) is a customizable restaurant app that lets users 'Order Burgers From Custom Menu' and/or input the names of burgers they'd like to eat.<br>
+Give it a try:
+https://frozen-river-40606.herokuapp.com/
+<br>
 
+![User-Menu-View-burg00-jpg](https://github.com/kayhon/mysqlburger/blob/master/public/assets/img/burg00.jpg)<br>
 
-![User-Menu-View-burg00-jpg](https://github.com/kayhon/mysqlburger/blob/master/images/burg00.jpg)<br>
-
-![User-Menu-View-burg0-jpg](https://github.com/kayhon/mysqlburger/blob/master/images/burg0.jpg)<br>
+![User-Menu-View-burg0-jpg](https://github.com/kayhon/mysqlburger/blob/master/public/assets/img/burg0.jpg)<br>
 
 ## App Features
 
