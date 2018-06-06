@@ -4,10 +4,7 @@ MySqlBurger (Eat-Da-Burger!) is a customizable restaurant app that lets users 'O
 Give it a try:
 https://frozen-river-40606.herokuapp.com/
 <br>
-
 ![User-Menu-View-burg00-jpg](https://github.com/kayhon/mysqlburger/blob/master/public/assets/img/burg00.jpg)<br>
-
-![User-Menu-View-burg0-jpg](https://github.com/kayhon/mysqlburger/blob/master/public/assets/img/burg0.jpg)<br>
 
 ## App Features
 
